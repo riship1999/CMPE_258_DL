@@ -1,4 +1,4 @@
-# Deep Learning Assignment
+# Complete end2end modeling with Deep Learning
 
 This repository contains three deep learning models implemented in three separate Google Colab notebooks:
 
@@ -24,21 +24,21 @@ Each Colab notebook contains the following:
 
 ## 📂 **Notebooks**
 
-🔗 **[Classification Model - Google Colab](INSERT_LINK_HERE)**
+🔗 **[Classification Model - Google Colab](https://colab.research.google.com/drive/1XoufVERpLwlfadOW1-ukHZqN2fQN7DrG?usp=sharing)**
 
 - Implements a deep learning classification model.
 - Includes accuracy, precision, recall, F1-score.
 - ROC and PR curves for model evaluation.
 - Per-class analysis and error metrics.
 
-🔗 **[Regression Model - Google Colab](INSERT_LINK_HERE)**
+🔗 **[Regression Model - Google Colab](https://colab.research.google.com/drive/1XOrJqaWyBCP0ddu-SHyGsSSK2hi__gXT?usp=sharing)**
 
 - Implements a deep learning regression model.
 - Evaluates performance using MAE, MSE, RMSE, and R² score.
 - Visualizes predictions vs. actual values.
 - Training loss and MAE history plots.
 
-🔗 **[Image Classification Model - Google Colab](INSERT_LINK_HERE)**
+🔗 **[Image Classification Model - Google Colab](https://colab.research.google.com/drive/1EohO4gZ7n78G7QpEtnei6eGz5Zt0dyHi?usp=sharing)**
 
 - Implements a CNN-based image classification model.
 - Includes accuracy, per-class performance metrics.
