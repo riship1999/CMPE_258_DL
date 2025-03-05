@@ -68,7 +68,7 @@ The repository includes multiple Colab notebooks, each implementing a different 
 
 ## Video Walkthrough
 - A detailed walkthrough of the executed Colab notebooks is available.
-- **Video Link:** [YT video](https://github.com/riship1999/CMPE_258_DL/edit/main/NeuralNetwork_using_numpy_keras_pytorch_jax/README.md)
+- **Video Link:** [YT video](https://github.com/riship1999/CMPE_258_DL/blob/main/NeuralNetwork_using_numpy_keras_pytorch_jax/README.md)
 
 ---
 
