@@ -1,4 +1,4 @@
-# Deep Learning Assignment - README
+# Neural Network from Scratch
 
 ## Overview
 
