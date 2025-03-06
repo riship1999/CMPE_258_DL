@@ -38,23 +38,23 @@ The repository includes multiple Colab notebooks, each implementing a different 
 
 - Implements the 3-layer network manually in TensorFlow, avoiding high-level APIs.
 - Uses `einsum` instead of traditional matrix multiplication.
-- **Colab Link:** [TensorFlow Scratch](https://colab.research.google.com/drive/1UCJt8EYjlzCs1H1d1X0iDGYJsHKwu-NO)
+- **Colab Link:** [TensorFlow Scratch](https://colab.research.google.com/drive/1P1XSXPQiiKNyoFZ4JRCKKMhQ05quFGU1?usp=sharing)
 
 #### b) TensorFlow Built-in Layers
 
 - Implements the same network using TensorFlow’s `Dense` layers.
-- **Colab Link:** [TensorFlow Built-in](https://colab.research.google.com/drive/1UCJt8EYjlzCs1H1d1X0iDGYJsHKwu-NO)
+- **Colab Link:** [TensorFlow Built-in](https://colab.research.google.com/drive/17_m8ihquumIK238dQPoBsBaX293IJxuR?usp=sharing)
 
 #### c) TensorFlow Functional API
 
 - Uses TensorFlow’s Functional API to implement the network.
-- **Colab Link:** [Functional API](https://colab.research.google.com/drive/1UCJt8EYjlzCs1H1d1X0iDGYJsHKwu-NO)
+- **Colab Link:** [Functional API](https://colab.research.google.com/drive/1gcEYA1rW0Hx0PzU39w_iCokWyYuaKgIp?usp=sharing)
 
 ### **4. 4D Plot of Synthetic Data**
 
 - The dataset is generated using a 3-variable nonlinear equation.
 - The data is plotted using Matplotlib in a 4D visualization.
-- **Reference:** [4D Plot Guide](https://www.tutorialspoint.com/how-to-make-a-4d-plot-with-matplotlib-using-arbitrary-data)
+- **Reference:** [4D Plot Guide](https://colab.research.google.com/drive/1u8z0B8gr6vQ3lxXfV4cH4xD2SMpXPev6?usp=sharing)
 
 ## Execution Instruction
 
