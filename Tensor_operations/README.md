@@ -45,4 +45,4 @@ Each notebook thoroughly demonstrates various tensor operations, highlighting bo
 
 A detailed walkthrough video demonstrating the content, logic, and key points of both notebooks has been created. The video covers explanations of operations, detailed discussions on einsum usage, and insights into creative tensor operations demonstrated.
 
-- **YouTube Video Link:** [Watch Video Walkthrough](https://colab.research.google.com/drive/1w7by39NOVTMTOA1kO0WL4U0UPaIGsraz?usp=sharing)
+- **YouTube Video Link:** [Watch Video Walkthrough](https://youtu.be/wdy0fd9OSzQ)
