@@ -63,7 +63,7 @@ Each notebook generates the following artifacts:
 
 A short video explaining the **code, metrics, and error analysis** is included as part of the submission.
 
-🔗 **[Watch Video Walkthrough on YouTube](https://github.com/riship1999/CMPE_258_DL/blob/main/End2End_modelling_with_Deep_Learning/README.md)**
+🔗 **[Watch Video Walkthrough on YouTube](https://youtu.be/TqGKv0c8XpU)**
 
 ---
 
