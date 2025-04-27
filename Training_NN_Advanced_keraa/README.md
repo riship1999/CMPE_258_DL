@@ -22,6 +22,8 @@ It includes -
 
 1-i: Using Keras Tuner
 
+YT demo - https://youtu.be/njLjldQ7SpE
+
 1-j: Using KerasCV Data Augmentation
 
 1-k: Data Augmentation for Multiple Data Types
