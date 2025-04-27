@@ -1,8 +1,8 @@
 ### Training Neural networks with Keras - advanced
 
-Part 1 colab notebook includes - 
+Part 1 colab - https://colab.research.google.com/drive/1Tkn-9GgzkR0bWsN2pubD4J777Vm8aFFy 
 
-link - https://colab.research.google.com/drive/1Tkn-9GgzkR0bWsN2pubD4J777Vm8aFFy
+It includes - 
 
 1-a: L1 and L2 Regularization
 
@@ -27,3 +27,28 @@ link - https://colab.research.google.com/drive/1Tkn-9GgzkR0bWsN2pubD4J777Vm8aFFy
 1-k: Data Augmentation for Multiple Data Types
 
 1-l: Demonstrating Fastai Data Augmentation
+_________________________________________________________________________________________________________________________________________
+
+Part 2 colab - https://colab.research.google.com/drive/1FKwVyctnnp7YKE8ToYWOBuxfJf7zwuKz
+
+It includes - 
+
+2-i - Custom Learning Rate Scheduler
+
+2-ii - Custom Dropout (MCAlphaDropout)
+
+2-iii – Custom Normalization (MaxNormDense)
+
+2iv – TensorBoard Integration
+
+2v – Custom Loss Function (CustomHuberLoss)
+
+2vi – Custom Activation, Initializer, Regularizer & Constraint Example
+
+2vii – Custom Metric (HuberMetric) Example
+
+2viii – Custom Layers Example
+
+2x – Custom Optimizer (MyMomentumOptimizer)
+
+2xi – Custom Training Loop for Fashion MNIST Example
