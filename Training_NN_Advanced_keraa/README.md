@@ -2,7 +2,7 @@
 
 Part 1 colab notebook includes - 
 
-link - 
+link - https://colab.research.google.com/drive/1Tkn-9GgzkR0bWsN2pubD4J777Vm8aFFy
 
 1-a: L1 and L2 Regularization
 
