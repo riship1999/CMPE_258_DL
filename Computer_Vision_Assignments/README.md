@@ -12,4 +12,6 @@ Transfer Learning on Vision Datasets - https://colab.research.google.com/drive/1
 
 Transfer & Zero Shot Learning - https://colab.research.google.com/drive/1NBL-fL5BCd1Ae0tQD39z9uaCqxd4sM39
 
+YT demo - Computer Vision tutorials - https://youtu.be/r1iY6OVAzi4
+
 
