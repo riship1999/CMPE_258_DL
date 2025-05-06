@@ -1,6 +1,6 @@
 ### Training Neural networks with Keras - advanced
 
-Part 1 colab - https://colab.research.google.com/drive/1Tkn-9GgzkR0bWsN2pubD4J777Vm8aFFy 
+Part 1 colab - https://colab.research.google.com/drive/16M_KbxqgeT4Yc-qlIlqI53V-59XEF7Tx?usp=sharing 
 
 It includes - 
 
