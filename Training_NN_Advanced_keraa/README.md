@@ -29,7 +29,7 @@ It includes -
 1-l: Demonstrating Fastai Data Augmentation
 _________________________________________________________________________________________________________________________________________
 
-Part 2 colab - https://colab.research.google.com/drive/1FKwVyctnnp7YKE8ToYWOBuxfJf7zwuKz
+Part 2 colab - https://colab.research.google.com/drive/1I3awNjPkVYQIT0kv2YsgAoqeI2R2-zUU?usp=sharing
 
 It includes - 
 
