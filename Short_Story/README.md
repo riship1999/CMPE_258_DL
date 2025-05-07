@@ -24,7 +24,10 @@ The goal of this project is to simplify and visualize the challenges and progres
   A published article simplifying the concepts and findings from the paper using intuitive language and visuals.
 
 - 📺 **Narrated Video Walkthrough**:  
-  👉 [Watch on YouTube](#) *(Replace this with your final video link)*
+  👉 [Watch on YouTube](https://youtu.be/i0WoGQWOKWc) 
+
+- 📺 **Medium article**:  
+  👉 [Link](https://medium.com/p/3948435d409f) 
 
 ---
 
