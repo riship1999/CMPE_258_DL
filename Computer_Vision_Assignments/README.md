@@ -1,6 +1,7 @@
 ### Assignment 8 - Computer vision
 
 Colab links - 
+
 Part 1 Supervised constrastive vs softmax - https://colab.research.google.com/drive/1EppaoeW2cI50SQQSaIDcF_GoaWgQBCrd?usp=sharing
 
 Part 2 zeroshot - https://colab.research.google.com/drive/1MJVLH_OG1G09QNA_NSyVoDQ3H036rBRa?usp=sharing
@@ -18,6 +19,5 @@ Part 4 Pneumonia Classification - https://colab.research.google.com/drive/1CchK7
 Part 4 CT SCAN Classification - https://colab.research.google.com/drive/1drLvFMaM6bvqVYudnlzlOdduvGMG1viZ?usp=sharing
 
 
-YT demo - Computer Vision tutorials
-
+YT demo - #
 
