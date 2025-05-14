@@ -19,5 +19,5 @@ Part 4 Pneumonia Classification - https://colab.research.google.com/drive/1CchK7
 Part 4 CT SCAN Classification - https://colab.research.google.com/drive/1drLvFMaM6bvqVYudnlzlOdduvGMG1viZ?usp=sharing
 
 
-YT demo - #
+YT demo - https://youtu.be/nzrrpX8NbCA
 

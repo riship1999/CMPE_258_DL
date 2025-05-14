@@ -5,3 +5,6 @@
 02 Fine tuning pretrained backbone - https://colab.research.google.com/drive/1yAZM4JlcJH0b8BdbaOgfAqRiWaGWuIwx?usp=sharing
 
 03 Build and train your own transformer from scratch - https://colab.research.google.com/drive/1Kox6DA5B37_eGzvUwYm1-97q9g50wb-I?usp=sharing
+
+
+YT demo - https://youtu.be/qOQ1sR-3rds
